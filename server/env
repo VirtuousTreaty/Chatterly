@@ -1,0 +1,3 @@
+MONGO_URI=mongodb+srv://ammar:Ammar%4012345@chatapp.x2nzlao.mongodb.net/Chatterly?retryWrites=true&w=majority
+JWT_SECRET=Chatterly123
+PORT=5000
